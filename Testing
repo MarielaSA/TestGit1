@@ -1,8 +1,11 @@
 Hola Mariela
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Adding commets
 #Adding comment
 =======
+=======
+>>>>>>> branch001
 #Adding comments
 #Adding comment 03
 #Adding comment 04
@@ -25,4 +28,7 @@ Hola Mariela
 Adding comment 14444444444444444
 Adding comment 14444444444444444
 Adding comment 14444444444444444
+<<<<<<< HEAD
+>>>>>>> branch001
+=======
 >>>>>>> branch001
